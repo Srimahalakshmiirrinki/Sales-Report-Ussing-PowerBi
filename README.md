@@ -40,11 +40,11 @@ Creating Dashboards to answer the questions
 
 Creating Future forecast for pridicting the Sales.
 
-<img width="611" alt="image" src="https://user-images.githubusercontent.com/119513176/216405110-3d98e673-67ea-4fbb-815d-4b1a082f7485.png">
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/119513176/217941561-928f4415-bfed-47c7-9385-c869ecd47f71.png">
 
 [Click Here for DashBoard](https://app.powerbi.com/groups/me/reports/f633c5c8-7836-4269-9f26-c3762ef31bc2/ReportSection)
 
-<img width="617" alt="image" src="https://user-images.githubusercontent.com/119513176/216405254-f130464e-bca8-4c3d-99f8-429875fc3b36.png">
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/119513176/217941793-4f4b49d4-fab0-474e-a6c6-3c6a077dab26.png">
 
 [Click Here for DashBoard](https://app.powerbi.com/groups/me/reports/f633c5c8-7836-4269-9f26-c3762ef31bc2/ReportSection89cc67ff90a2fa1b5000)
 
